@@ -1,0 +1,79 @@
+/* Simple template */
+.blog-template-simple {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.blog-template-simple h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+.blog-template-simple .blog-content {
+    margin-top: 20px;
+}
+
+/* Fancy template */
+.blog-template-fancy {
+    font-family: 'Georgia', serif;
+    line-height: 1.8;
+    color: #04274a;
+    background-image: url("img.png");
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.blog-template-fancy h1 {
+    color: #781a08;
+    text-align: center;
+    font-style: italic;
+}
+
+.blog-template-fancy .blog-content {
+    margin-top: 30px;
+    text-align: justify;
+}
+
+/* Minimalist template */
+.blog-template-minimalist {
+    font-family: 'Helvetica', sans-serif;
+    line-height: 1.7;
+    color: #333;
+    background-color: antiquewhite;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.blog-template-minimalist h1 {
+    font-weight: 300;
+    border-left: 5px solid #3498db;
+    padding-left: 15px;
+}
+
+.blog-template-minimalist .blog-content {
+    margin-top: 25px;
+}
+
+/* Common styles for all templates */
+.blog-tags {
+    margin-top: 20px;
+}
+
+.blog-tags h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.tag {
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 0.9em;
+}
+
