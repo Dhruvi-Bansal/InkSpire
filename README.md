@@ -25,6 +25,7 @@ KEY FEATURES:
   • Full CRUD (Create, Read, Update, Delete) functionality for blog posts.
 
 TECH STACK: 
+
     ● HTML & CSS: Used for structuring and styling the website, ensuring it is both responsive and  visually appealing across all devices.  
     
     ● JavaScript: Employed for adding interactivity, managing dynamic content, and enhancing user  experience through client-side scripting.  
